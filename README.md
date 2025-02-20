@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Secure Data Hiding In Images: A Python Implementation of Steganography. This project utilizes image processing techniques to securely embed sensitive information within seemingly ordinary images, enhancing data privacy and security.
+Secure Data Hiding In Images - A Python Implementation of Steganography: This project utilizes image processing techniques to securely embed sensitive information within seemingly ordinary images, enhancing data privacy and security.
 This project can be used in demonstrating how to embed secret messages within images for covert communication.
 
 ## Requirements
